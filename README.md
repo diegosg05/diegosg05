@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning ...
   - Spring
-  - ASP .NET Core
-  - Angular
+  - Cloud Computing
+  - Docker
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, I like 🎮 playing videogames, 🎵 listening to music, and 📖 reading books.
