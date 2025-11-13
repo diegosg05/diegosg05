@@ -2,16 +2,15 @@
 
 ## 💫 About Me:
 <img src = 'https://f.hubspotusercontent00.net/hubfs/19872206/Dog-daycare-software.png' width="400px" alt = 'xd' align="right"/>
-<p align="justify">I'm a Software Engineering student at Cibertec, currently in my final year. I’m passionate about technology and software development, always looking for ways to improve my skills. I’m currently expanding my knowledge in Frontend and Backend development with the goal of becoming a Full-Stack Developer. I enjoy learning, solving problems, and innovating through technology. Every project is an opportunity to grow, and I’m constantly exploring new tools and frameworks to level up my skills.</p>
+<p align="justify">I'm a Computer Science student at Cibertec, currently in my final year. I’m passionate about software development, always looking for ways to improve my skills. I’m currently expanding my knowledge in Frontend and Backend development with the goal of becoming a Full-Stack Developer. I enjoy learning, solving problems, and innovating through technology. Every project is an opportunity to grow, and I’m constantly exploring new tools and frameworks to level up my skills.</p>
 
-- 🌱 I’m currently learning ...
-  - Spring
+- 🌱 currently learning ...
+  - Spring ecosystem
   - Cloud Computing
   - Docker
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, I like 🎮 playing videogames, 🎵 listening to music, and 📖 reading books.
-- 📫 Reach out to me at: <a href="diegosg2706@gmail.com">diegosg2706@gmail.com</a>
+- looking forward to collaborate on open source projects.
+- Ask me about anything, I am happy to help<br>
+- Reach out to me at: <a href="diegosg2706@gmail.com">diegosg2706@gmail.com</a>
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -24,6 +23,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
